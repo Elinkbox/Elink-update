@@ -1,0 +1,17 @@
+{
+    "base_update_path": "/home/debian/update",
+    "paths": {
+        "codes": {
+            "src": "/home/debian/update/codes",
+            "dest": "/home/debian/codes"
+        },
+        "Log": {
+            "src": "/home/debian/update/Log",
+            "dest": "/home/debian/Log"
+        },
+        "html": {
+            "src": "/home/debian/update/html",
+            "dest": "/var/www/html"
+        }
+    }
+}
